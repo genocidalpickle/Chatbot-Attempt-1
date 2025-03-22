@@ -1,0 +1,20 @@
+{
+    "hi": [
+        "hi",
+        "hello",
+        "hey",
+        "whats up",
+        "hola",
+        "boo"
+    ],
+    "how are you": [
+        "how are you",
+        "what's up",
+        "how do you do"
+    ],
+    "bye": [
+        "bye",
+        "goodbye",
+        "see you later"
+    ]
+}

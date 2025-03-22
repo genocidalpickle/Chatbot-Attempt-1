@@ -1,0 +1,36 @@
+{
+    "hi": [
+        {
+            "response": "Hello!",
+            "weight": 10
+        },
+        {
+            "response": "Hi there!",
+            "weight": 8
+        },
+        {
+            "response": "Hey!",
+            "weight": 6
+        }
+    ],
+    "how are you": [
+        {
+            "response": "I'm doing well, thank you!",
+            "weight": 5
+        },
+        {
+            "response": "I'm fine\u00e2\u20ac\u201dhow about you?",
+            "weight": 5
+        }
+    ],
+    "bye": [
+        {
+            "response": "Goodbye!",
+            "weight": 5
+        },
+        {
+            "response": "See you later!",
+            "weight": 5
+        }
+    ]
+}
